@@ -7,7 +7,7 @@ function Home() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-left">
-          <h1>Your Name Here</h1>
+          <h1>Rishi pal</h1>
           <p>
             Intro text: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
             sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
